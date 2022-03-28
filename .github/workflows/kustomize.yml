@@ -1,4 +1,4 @@
-name: Deployment CI
+name: Deployment CICD
 
 on:
   push:
